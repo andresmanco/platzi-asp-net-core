@@ -74,5 +74,7 @@ C:\Users\amanco\My Documents\Programas\Platzi\platzi-asp-net-core\obj\Debug\netc
 C:\Users\amanco\My Documents\Programas\Platzi\platzi-asp-net-core\obj\Debug\netcoreapp3.1\platzi-asp-net-core.pdb
 C:\Users\amanco\My Documents\Programas\Platzi\platzi-asp-net-core\obj\Debug\netcoreapp3.1\platzi-asp-net-core.csproj.CopyComplete
 C:\Users\amanco\My Documents\Programas\Platzi\platzi-asp-net-core\obj\Debug\netcoreapp3.1\Razor\Views\Asignatura\Index.cshtml.g.cs
-C:\Users\amanco\My Documents\Programas\Platzi\platzi-asp-net-core\obj\Debug\netcoreapp3.1\Razor\Views\Shared\AsignaturaSimple.cshtml.g.cs
 C:\Users\amanco\My Documents\Programas\Platzi\platzi-asp-net-core\obj\Debug\netcoreapp3.1\Razor\Views\Asignatura\MultiAsignatura.cshtml.g.cs
+C:\Users\amanco\My Documents\Programas\Platzi\platzi-asp-net-core\obj\Debug\netcoreapp3.1\Razor\Views\Shared\ObjetoEscuelaSimple.cshtml.g.cs
+C:\Users\amanco\My Documents\Programas\Platzi\platzi-asp-net-core\obj\Debug\netcoreapp3.1\Razor\Views\Alumno\Index.cshtml.g.cs
+C:\Users\amanco\My Documents\Programas\Platzi\platzi-asp-net-core\obj\Debug\netcoreapp3.1\Razor\Views\Alumno\MultiAlumno.cshtml.g.cs
