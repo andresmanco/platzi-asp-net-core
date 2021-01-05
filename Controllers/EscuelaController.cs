@@ -9,9 +9,15 @@ namespace platzi_asp_net_core.Controllers
         public IActionResult Index()
         {
             var escuela = new Escuela();
-            escuela.AñoFundacion = 2005;
-            escuela.EscuelaId = Guid.NewGuid().ToString();
+            escuela.AñoDeCreacion = 2005;
+            escuela.UniqueId = Guid.NewGuid().ToString();
             escuela.Nombre = "Platzi School";
+            escuela.Ciudad = "Bogota";
+            escuela.Pais = "Colombia";
+            escuela.Dirección = "1325 Aala st";
+            escuela.TipoEscuela = TiposEscuela.Secundaria;
+            
+
             return View(escuela);
         }
     }
