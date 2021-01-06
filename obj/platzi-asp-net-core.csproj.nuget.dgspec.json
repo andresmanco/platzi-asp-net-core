@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\amanco\\My Documents\\Programas\\Platzi\\platzi-asp-net-core\\platzi-asp-net-core.csproj": {}
+    "C:\\Users\\amanco\\Documents\\Programas\\Platzi\\platzi-asp-net-core\\platzi-asp-net-core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\amanco\\My Documents\\Programas\\Platzi\\platzi-asp-net-core\\platzi-asp-net-core.csproj": {
+    "C:\\Users\\amanco\\Documents\\Programas\\Platzi\\platzi-asp-net-core\\platzi-asp-net-core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\amanco\\My Documents\\Programas\\Platzi\\platzi-asp-net-core\\platzi-asp-net-core.csproj",
+        "projectUniqueName": "C:\\Users\\amanco\\Documents\\Programas\\Platzi\\platzi-asp-net-core\\platzi-asp-net-core.csproj",
         "projectName": "platzi-asp-net-core",
-        "projectPath": "C:\\Users\\amanco\\My Documents\\Programas\\Platzi\\platzi-asp-net-core\\platzi-asp-net-core.csproj",
+        "projectPath": "C:\\Users\\amanco\\Documents\\Programas\\Platzi\\platzi-asp-net-core\\platzi-asp-net-core.csproj",
         "packagesPath": "C:\\Users\\amanco\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\amanco\\My Documents\\Programas\\Platzi\\platzi-asp-net-core\\obj\\",
+        "outputPath": "C:\\Users\\amanco\\Documents\\Programas\\Platzi\\platzi-asp-net-core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -41,6 +41,16 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "(, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
