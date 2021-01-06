@@ -1,6 +1,7 @@
 using Microsoft.AspNetCore.Mvc;
 using platzi_asp_net_core.Models;
 using System;
+using System.Linq;
 
 namespace platzi_asp_net_core.Controllers
 {
@@ -8,17 +9,16 @@ namespace platzi_asp_net_core.Controllers
     {
         public IActionResult Index()
         {
-            var escuela = new Escuela();
-            escuela.AñoDeCreacion = 2005;
-            escuela.UniqueId = Guid.NewGuid().ToString();
-            escuela.Nombre = "Platzi School";
-            escuela.Ciudad = "Bogota";
-            escuela.Pais = "Colombia";
-            escuela.Dirección = "1325 Aala st";
-            escuela.TipoEscuela = TiposEscuela.Secundaria;
-            
-
+            ViewBag.CosaDinamica = "La monja";
+            var escuela = _context.Escuelas.FirstOrDefault();
             return View(escuela);
         }
+
+        private EscuelaContext _context;
+        public EscuelaController(EscuelaContext context)
+        {
+            _context = context;
+        }
     }
+
 }
