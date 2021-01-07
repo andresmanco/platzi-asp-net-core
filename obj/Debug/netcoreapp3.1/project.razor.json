@@ -14397,6 +14397,16 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\amanco\\Documents\\Programas\\Platzi\\platzi-asp-net-core\\Views\\Curso\\Index.cshtml",
+      "TargetPath": "Views\\Curso\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\amanco\\Documents\\Programas\\Platzi\\platzi-asp-net-core\\Views\\Curso\\Create.cshtml",
+      "TargetPath": "Views\\Curso\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\amanco\\Documents\\Programas\\Platzi\\platzi-asp-net-core\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
@@ -14464,6 +14474,11 @@
     {
       "FilePath": "c:\\Users\\amanco\\Documents\\Programas\\Platzi\\platzi-asp-net-core\\Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\amanco\\Documents\\Programas\\Platzi\\platzi-asp-net-core\\Views\\Curso\\MultiAlumno.cshtml",
+      "TargetPath": "Views\\Curso\\MultiAlumno.cshtml",
       "FileKind": "mvc"
     }
   ],

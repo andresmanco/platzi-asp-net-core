@@ -26,7 +26,7 @@ namespace platzi_asp_net_core.Models
             escuela.Nombre = "Platzi School";
             escuela.Ciudad = "Bogota";
             escuela.Pais = "Colombia";
-            escuela.Dirección = "1325 Aala st";
+            escuela.Direccion = "1325 Aala st";
             escuela.TipoEscuela = TiposEscuela.Secundaria;
 
             
