@@ -170,4 +170,3 @@ C:\Users\amanco\Documents\Programas\Platzi\platzi-asp-net-core\bin\Debug\netcore
 C:\Users\amanco\Documents\Programas\Platzi\platzi-asp-net-core\obj\Debug\netcoreapp3.1\Razor\Views\Curso\Create.cshtml.g.cs
 C:\Users\amanco\Documents\Programas\Platzi\platzi-asp-net-core\obj\Debug\netcoreapp3.1\Razor\Views\Curso\Index.cshtml.g.cs
 C:\Users\amanco\Documents\Programas\Platzi\platzi-asp-net-core\obj\Debug\netcoreapp3.1\Razor\Views\Curso\MultiAlumno.cshtml.g.cs
-C:\Users\amanco\Documents\Programas\Platzi\platzi-asp-net-core\obj\Debug\netcoreapp3.1\Razor\Views\Curso\Edit.cshtml.g.cs
