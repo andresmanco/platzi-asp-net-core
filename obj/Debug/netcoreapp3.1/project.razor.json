@@ -14397,6 +14397,16 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\amanco\\Documents\\Programas\\Platzi\\platzi-asp-net-core\\Views\\Alumno\\Details.cshtml",
+      "TargetPath": "Views\\Alumno\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\amanco\\Documents\\Programas\\Platzi\\platzi-asp-net-core\\Views\\Evaluacion\\Delete.cshtml",
+      "TargetPath": "Views\\Evaluacion\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\amanco\\Documents\\Programas\\Platzi\\platzi-asp-net-core\\Views\\Curso\\Index.cshtml",
       "TargetPath": "Views\\Curso\\Index.cshtml",
       "FileKind": "mvc"
@@ -14412,13 +14422,43 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\amanco\\Documents\\Programas\\Platzi\\platzi-asp-net-core\\Views\\Curso\\Edit.cshtml",
+      "TargetPath": "Views\\Curso\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\amanco\\Documents\\Programas\\Platzi\\platzi-asp-net-core\\Views\\Home\\Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\amanco\\Documents\\Programas\\Platzi\\platzi-asp-net-core\\Views\\Escuela\\Details.cshtml",
+      "TargetPath": "Views\\Escuela\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\amanco\\Documents\\Programas\\Platzi\\platzi-asp-net-core\\Views\\Asignatura\\Create.cshtml",
+      "TargetPath": "Views\\Asignatura\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\amanco\\Documents\\Programas\\Platzi\\platzi-asp-net-core\\Views\\Asignatura\\Edit.cshtml",
+      "TargetPath": "Views\\Asignatura\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\amanco\\Documents\\Programas\\Platzi\\platzi-asp-net-core\\Views\\Curso\\Details.cshtml",
+      "TargetPath": "Views\\Curso\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\amanco\\Documents\\Programas\\Platzi\\platzi-asp-net-core\\Views\\Shared\\ListaObjetosEscuela.cshtml",
       "TargetPath": "Views\\Shared\\ListaObjetosEscuela.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\amanco\\Documents\\Programas\\Platzi\\platzi-asp-net-core\\Views\\Alumno\\Delete.cshtml",
+      "TargetPath": "Views\\Alumno\\Delete.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -14432,13 +14472,43 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\amanco\\Documents\\Programas\\Platzi\\platzi-asp-net-core\\Views\\Alumno\\Create.cshtml",
+      "TargetPath": "Views\\Alumno\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\amanco\\Documents\\Programas\\Platzi\\platzi-asp-net-core\\Views\\Evaluacion\\Create.cshtml",
+      "TargetPath": "Views\\Evaluacion\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\amanco\\Documents\\Programas\\Platzi\\platzi-asp-net-core\\Views\\Alumno\\Index.cshtml",
       "TargetPath": "Views\\Alumno\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\amanco\\Documents\\Programas\\Platzi\\platzi-asp-net-core\\Views\\Escuela\\Create.cshtml",
+      "TargetPath": "Views\\Escuela\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\amanco\\Documents\\Programas\\Platzi\\platzi-asp-net-core\\Views\\_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\amanco\\Documents\\Programas\\Platzi\\platzi-asp-net-core\\Views\\Curso\\Delete.cshtml",
+      "TargetPath": "Views\\Curso\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\amanco\\Documents\\Programas\\Platzi\\platzi-asp-net-core\\Views\\Evaluacion\\Edit.cshtml",
+      "TargetPath": "Views\\Evaluacion\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\amanco\\Documents\\Programas\\Platzi\\platzi-asp-net-core\\Views\\Asignatura\\Details.cshtml",
+      "TargetPath": "Views\\Asignatura\\Details.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -14462,8 +14532,23 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\amanco\\Documents\\Programas\\Platzi\\platzi-asp-net-core\\Views\\Asignatura\\Delete.cshtml",
+      "TargetPath": "Views\\Asignatura\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\amanco\\Documents\\Programas\\Platzi\\platzi-asp-net-core\\Views\\Shared\\Simple.cshtml",
       "TargetPath": "Views\\Shared\\Simple.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\amanco\\Documents\\Programas\\Platzi\\platzi-asp-net-core\\Views\\Evaluacion\\Details.cshtml",
+      "TargetPath": "Views\\Evaluacion\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\amanco\\Documents\\Programas\\Platzi\\platzi-asp-net-core\\Views\\Escuela\\Delete.cshtml",
+      "TargetPath": "Views\\Escuela\\Delete.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -14472,8 +14557,23 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\amanco\\Documents\\Programas\\Platzi\\platzi-asp-net-core\\Views\\Escuela\\Edit.cshtml",
+      "TargetPath": "Views\\Escuela\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\amanco\\Documents\\Programas\\Platzi\\platzi-asp-net-core\\Views\\Evaluacion\\Index.cshtml",
+      "TargetPath": "Views\\Evaluacion\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\amanco\\Documents\\Programas\\Platzi\\platzi-asp-net-core\\Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\amanco\\Documents\\Programas\\Platzi\\platzi-asp-net-core\\Views\\Alumno\\Edit.cshtml",
+      "TargetPath": "Views\\Alumno\\Edit.cshtml",
       "FileKind": "mvc"
     },
     {

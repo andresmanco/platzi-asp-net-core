@@ -27,9 +27,21 @@ namespace platzi_asp_net_core
         {
             services.AddControllersWithViews();
 
-            services.AddDbContext<EscuelaContext>(
-                options => options.UseInMemoryDatabase(databaseName: "testeDB")
-            );
+            // services.AddDbContext<EscuelaContext>(
+            //     options => options.UseInMemoryDatabase(databaseName: "testeDB")
+            // );
+
+            string connString = ConfigurationExtensions.GetConnectionString(this.Configuration, "DefaultConnectionString");
+            services.AddDbContext<EscuelaContext>(options => options.UseSqlServer(connString));
+
+            services.AddDbContext<AsignaturaContext>(options =>
+                    options.UseSqlServer(Configuration.GetConnectionString("AsignaturaContext")));
+
+            services.AddDbContext<EvaluacionContext>(options =>
+                    options.UseSqlServer(Configuration.GetConnectionString("EvaluacionContext")));
+
+            services.AddDbContext<CursoContext>(options =>
+                    options.UseSqlServer(Configuration.GetConnectionString("CursoContext")));
             
             
         }
